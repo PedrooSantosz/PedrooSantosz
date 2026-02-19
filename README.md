@@ -1,58 +1,92 @@
-# 👩🏻‍💻 PedroSantos
+<div align="center">
 
-**`Desenvolvedora Iniciante`**
+# Pedro Otávio Santos Amancio
 
-Me chamo Pedro Otavio Santos Amancio, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio junto com o curso de mecânica industrial. Atualmente, estou cursando Sistema de Informação na Unifacear.
+**Estudante de Sistemas de Informação | Desenvolvedor Back-end em Formação**
 
-<p align="left">
-    <a href="https://github.com/PedrooSantosz">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedrooSantosz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/PedrooSantosz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/PedrooSantosz)
+[![GitHub stars](https://custom-icon-badges.demolab.com/github/stars/PedrooSantosz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas)](https://github.com/PedrooSantosz?tab=repositories&sort=stargazers)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-           
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-           
-<br/>
-<br/>
+Sou estudante de **Sistemas de Informação** com interesse em desenvolvimento de software e organização de sistemas bem estruturados.
 
-### 📊 Estatísticas
+Tenho experiência acadêmica na construção de aplicações com foco em lógica de programação, modelagem de banco de dados, arquitetura em camadas e persistência de dados utilizando ORM.
 
-<p>
+Gosto de desenvolver projetos organizados, aplicando boas práticas de código e estruturando soluções de forma clara e escalável.
+
+- 🎓 Sistemas de Informação — Unifacear (5º período)
+- 🗄️ Modelagem de Banco de Dados
+- 🏗️ Arquitetura em Camadas
+- 🚀 Evoluindo constantemente como desenvolvedor
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="C++" title="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<br/><br/>
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🌱 Natupath — Aplicação Web
+Aplicação voltada para incentivo de práticas sustentáveis.
+
+- Desenvolvimento em PHP, HTML, CSS e JavaScript
+- Estruturação de páginas web
+- Integração entre front-end e back-end
+
+🔗 [Ver repositório](https://github.com/PedrooSantosz/Projeto-Natupath)
+
+---
+
+### 🎲 Jogo Ludo em C++
+Projeto focado em lógica de programação e controle de fluxo.
+
+- Implementação da lógica do jogo
+- Controle de turnos
+- Manipulação de estruturas condicionais e repetição
+
+🔗 [Ver repositório](https://github.com/PedrooSantosz/Projeto-Ludo-cpp)
+
+---
+
+### 🎓 Sistema de Cadastro e Matrícula de Alunos
+Aplicação desenvolvida com foco em organização em camadas e persistência de dados.
+
+- Arquitetura em camadas (Service e Repository)
+- Modelagem de banco de dados
+- Relacionamento many-to-many
+- Validações e tratamento de exceções
+
+🔗 [Ver repositório](https://github.com/PedrooSantosz/NOME-DO-REPO)
+
+---
+## 📊 Estatísticas
+
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedroosantosz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=PedrooSantosz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooSantosz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Linguagens mais usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooSantosz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
-</p>
+</div>

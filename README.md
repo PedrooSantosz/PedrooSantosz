@@ -50,7 +50,7 @@ Aplicação voltada para incentivo de práticas sustentáveis.
 - Estruturação de páginas web
 - Integração entre front-end e back-end
 
-🔗 [Ver repositório](https://github.com/PedrooSantosz/Projeto-Natupath)
+🔗 [Ver repositório](https://github.com/PedrooSantosz/NatuPath-MVP)
 
 ---
 
